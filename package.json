@@ -46,7 +46,7 @@
   "contributors": [
     "James J. Womack (@james_womack)"
   ],
-  "name": "react-resize-detector",
+  "name": "@jameswomack/react-resize-detector",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maslianok/react-resize-detector.git"
